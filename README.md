@@ -1,11 +1,12 @@
-# 🌎 Hello World em HTML
+# 👋 Hello World (HTML + JS)
 
-Um projeto simples criado para exibir a mensagem **"Hello World"** em uma página web, utilizando apenas **HTML**.  
-Ideal para quem está iniciando no desenvolvimento front-end.
+Este é um projeto simples criado para exibir uma mensagem **"Hello, World!"** na tela, utilizando **HTML** e **JavaScript**.
 
 ---
 
-## 🚀 Visualização
+## 🧩 Estrutura do projeto
 
-Abra o arquivo [`index.html`](./index.html) em qualquer navegador moderno para visualizar a mensagem:
-
+hello_world/
+│
+├── index.html # Estrutura principal da página
+└── script.js # Script responsável pela mensagem no console ou DOM
